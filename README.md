@@ -1,14 +1,16 @@
 # LyraOpenSpace
 
 Play the pre-Built Game:
-- Grab the latest version from here... https://drive.google.com/drive/folders/1wa9nktq8CNoLIDJWAh1F7NlGUCv1jfcL?usp=sharing
+- Grab the latest version from here, Mac or Windows...
+  - https://drive.google.com/drive/folders/1D_SOFb8osJQV27SVzmFBVkV5Em6bBZP6?usp=sharing
+
+Download this project
 
 Install the Plugin to make updates:
 - Install Unreal Engine 5.0 and above
 - Download Lyra Starter Game Project
-- Copy this folder ./Plugins/GameFeatures/OpenSpace from this projects into here... LyraStarterGame\Plugins\GameFeatures\OpenSpace\
+- Copy this folder ./Plugins/GameFeatures/OpenSpace from this projects into here... LyraStarterGame\Plugins\GameFeatures\OpenSpace
 - Once the Editor is loaded, Go to the Plugins Window and Activate the `OpenSpace` plugin under the `GameFeatures` category
-- Restart the Editor, and the Game mode should be activated automatically
+- Restart the Editor and the Game mode should be activated automatically
 
-<img width="1076" alt="image" src="https://user-images.githubusercontent.com/3343322/197965321-f28e3d0c-95df-4813-8258-d79020d5b682.png">
-<img width="1075" alt="image" src="https://user-images.githubusercontent.com/3343322/197965650-e324619f-43d7-42d4-9500-8084825d2f5c.png">
+<img width="1250" alt="Screen Shot 2022-11-17 at 11 06 12 PM" src="https://user-images.githubusercontent.com/3343322/202642324-4928ccc5-7992-42c1-bd62-5bde16252205.png">
